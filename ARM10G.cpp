@@ -1,8 +1,4 @@
-/*
-*DIV 2 C.
-*LINK:
-*nilabja10201992
-*/
+/*SPOJ*/
 #include <bits/stdc++.h>
 using namespace std;
 
